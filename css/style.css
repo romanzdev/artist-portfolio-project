@@ -18,6 +18,10 @@ h1 {
     display: inline-block;
 }
 
+.links ul {
+    padding: 0;
+}
+
 .links li {
     display: inline-block;
 }
