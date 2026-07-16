@@ -4,6 +4,14 @@ body {
     font-family: 'Cormorant', serif;
 }
 
-h1, nav, li {
+h1 {
+    display: inline-block;
+}
+
+nav {
+    display: inline-block;
+}
+
+li {
     display: inline-block;
 }
