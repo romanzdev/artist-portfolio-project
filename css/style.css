@@ -71,10 +71,11 @@ main img {
     margin: 100px 0 100px 200px;
 }
 
-.contact {
+.contacts {
     margin-top: 100px;
 }
 
-.contact > p {
+.contacts > p {
     margin: 0;
+    font-size: 20px;
 }
