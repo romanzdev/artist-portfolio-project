@@ -37,7 +37,15 @@ a.active {
     border-bottom: 1px solid black;
 }
 
-main img {
+.card {
     width: 40%;
+    display: inline-block;
+}
+
+main img {
     height: 500px;
+}
+
+.card h2 {
+    display: inline-block;
 }
