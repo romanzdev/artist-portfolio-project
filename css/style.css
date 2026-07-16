@@ -32,7 +32,3 @@ h1 {
     text-decoration: none;
     margin: 0 8px;
 }
-
-.links a:hover {
-    text-decoration: underline;
-}
