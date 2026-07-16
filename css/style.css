@@ -32,3 +32,7 @@ h1 {
     text-decoration: none;
     margin: 0 8px;
 }
+
+a.active {
+    text-decoration: underline;
+}
