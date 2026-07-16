@@ -61,7 +61,7 @@ main img {
 }
 
 .about > p {
-    font-size: 36px;
+    font-size: 40px;
     font-weight: 300;
 }
 
@@ -78,4 +78,11 @@ main img {
 .contacts > p {
     margin: 0;
     font-size: 20px;
+}
+
+.call-to-action {
+    display: inline-block;
+    border-bottom: 1px solid black;
+    padding-bottom: 8px;
+    margin-top: 0;
 }
